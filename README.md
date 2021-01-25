@@ -1,5 +1,6 @@
 # Socket-Programming
-Socket Programming projects in Java
+Socket Programming projects in Java:
+These projects explore the implementation of TCP and UDP Sockets in Java. 
 
 simpleTCPServer.java and simpleTCPClient.java:
 These programs implement a simple TCP client-server application. 
